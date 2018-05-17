@@ -1,0 +1,29 @@
+{
+  "name": "js30_cssclock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-browser": "^3.0.11",
+    "gulp-sass": "^4.0.1",
+    "gulp-strip-comments": "^2.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KingPra/js30_cssClock.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KingPra/js30_cssClock/issues"
+  },
+  "homepage": "https://github.com/KingPra/js30_cssClock#readme"
+}
